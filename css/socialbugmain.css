@@ -1,0 +1,101 @@
+/***********************************
+General
+************************************/
+body {
+	font-family: 'Vollkorn', arvo;
+}
+a {
+	text-decoration: none;
+}
+img {
+	max-width: 100%;
+}
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+/**********************************
+Header
+**********************************/
+header {
+	float: left;
+	margin: 0 0 30px 0;
+	padding: 5px 0 0 0;
+	width: 100%;
+}
+#logo {
+	text-align: center;
+	margin: 0;
+}
+
+#logofoto {
+	width: 80px;
+	height: 120px;
+	border-radius: 100%;
+}
+
+h1 {
+	font-family: 'Vollkorn';
+	text-align: center;
+}
+/******************************
+Navigation
+******************************/
+nav {
+	text-align: center;
+	margin: 20px 0 0;
+	padding: 10px 0;
+}
+nav ul {
+	list-style: none;
+}
+nav li {
+	display: inline-block;
+	padding: 0 15px 0 0;
+}
+nav a {
+	font-weight: 800px;
+	padding: 15px 10px;
+}
+/*******************************
+Section
+*********************************/
+#content {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#foto {
+	display: block;
+	position: relative;
+}
+#markalar li {
+	float: left;
+ 	width: 170px;
+	height: 35px;
+  	margin: 2.5%;
+}
+#brand {
+	float: left;
+	display: inline-block;
+	list-style: none;
+}
+
+/*********************************
+Footer
+**********************************/
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  clear: both;
+  padding-top: 50px;
+}
+
+.contact {
+	width: 30px;
+	height: 30px;
+	margin:0 5px;
+}
+
+
